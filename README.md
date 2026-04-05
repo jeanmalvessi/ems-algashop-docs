@@ -1,7 +1,11 @@
 # ems-algashop-docs
-This is a project built during the AlgaWorks Microservices Specialist Course (EMS).
 
-- Level 2 - Domain-Driven Design.
-- Level 3 - Microservices Design and Engineering with REST.
+Documentation for the [AlgaShop](https://github.com/jeanmalvessi/ems-algashop-meta) microservices platform, built during the AlgaWorks Microservices Specialist Course (EMS).
 
-See full description at [ems-algashop-meta](https://github.com/jeanmalvessi/ems-algashop-meta).
+Contains reference materials, architecture diagrams, and supplementary documentation for the AlgaShop services.
+
+## Covered Levels
+
+- Level 2 - Domain-Driven Design
+- Level 3 - Microservices Design and Engineering with REST
+- Level 4 - Microservices Resilience and Scalability
